@@ -3,7 +3,7 @@
 
 # Price-Specialist
 
-> A Tool for a Comparing Prices of a Product on Different E-Commerce Websites.
+> A Tool for Comparing Prices of a Product on Different E-Commerce Websites.
 > Price Specialist is a Website which allows the user to enter the product name he want to purchase and then shows the price of that poduct in all the e-commerce website.
 
 ---
