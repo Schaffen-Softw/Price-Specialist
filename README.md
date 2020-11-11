@@ -4,17 +4,16 @@
 # Price-Specialist
 
 > A Tool for a Comparing Prices of a Product on Different E-Commerce Websites.
-> Travelour is a Website which helps you to plan your travel in the easiest and cheapest way. It gives you an estimated budget for a travel to a specific destination or you can also find destinatio to travel by give your budget to the website. 
+> Price Specialist is a Website which allows the user to enter the product name he want to purchase and then shows the price of that poduct in all the e-commerce website.
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Features
-- Select the Destination and Number of Days you are staying in the Destination.
-- Get the Estimated Price for your Stay in the Destination.
-- Give your Budget to the Website and Select the Radius.
-- Get the Places that you can visit through that Budget.
+- Type the Name of the Product.
+- Get the Price of the Product on all the E-Commerce Website.
+- Click on the Tab to get redirected to the Product on that Website.
 
 ## Screenshots
 <img src="" alt="Project Screenshots">
@@ -31,11 +30,8 @@ $ flutter build apk --release
 ```
 
 ## Contributors
-- <a href="https://github.com/Ayushikeshari">Ayushi Keshari</a>
-- <a href="https://github.com/Ani0545">Animesh Bhargava</a>
-- <a href="https://github.com/divyanshsinghal1">Divyansh Singhal</a>
-- <a href="https://github.com/AwsmAsim">Anchal Agarwal</a>
-- <a href="https://github.com/Sanchitgoyal32">Sanchit Goyal</a>
+- <a href="https://github.com/bg12345">Bhavan Gupta</a>
+- <a href="https://github.com/nityakeshari">Nitya Keshari</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
